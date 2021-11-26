@@ -1,5 +1,5 @@
 ## Websites Below
-<a href="tundra/tundra.css">Tundra</a>
+<a href="tundra/tundra.html">Tundra</a>
 <br>
 <a href="earthquake/earthquake.css">Earthquake</a>
 <br>
