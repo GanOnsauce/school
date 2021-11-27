@@ -1,10 +1,10 @@
 ## School
 Welcome to my school website! Here you will be able to find all my assignemts that require websites
 <br>
-# SCIENCE WEBSITES
+### SCIENCE WEBSITES
 <a href="tundra/tundra.html">Tundra</a>
 <br>
-# SOCIAL STUDIES WEBSITES
+### SOCIAL STUDIES WEBSITES
 <a href="earthquake/earthquake.html">Earthquakes</a>
 <br>
 <br>
