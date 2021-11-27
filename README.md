@@ -10,3 +10,6 @@ Welcome to my school website! Here you will be able to find all my assignemts th
 <br>
 Find a bug or spelling error? report it <a href="https://github.com/GanOnsauce/school/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 ">Here</a> 
+Want To Locally Host This? 
+t <a href="https://github.com/GanOnsauce/school/blob/main/localhost.md
+">Click Here For Instructions</a> 
